@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "git init",
+    "description": "Initialize the current directory as a git repo",
+    "example": "$>git init"
+  },
+  {
+    "id": 2,
+    "title": "git status",
+    "description": "To list the files use git status.  Shows the status of the files.",
+    "example": "$>git status"
+  },
+  {
+    "id": 3,
+    "title": "git add <file(s)>",
+    "description": "Adds a file for git to track.",
+    "example": "$>git add test.txt"
+  },
+  {
+    "id": 4,
+    "title": "git reset",
+    "description": "unstage the file(s)",
+    "example": "$>git reset myFile.txt"
+  }
+]
